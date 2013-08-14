@@ -28,4 +28,4 @@ function getFacebookPageInfo(nameOrId, callback){
 
 }
 
-module.exports.getFacebookPageInfo = getFacebookPageInfo;
+module.exports.getInfo = getFacebookPageInfo;
