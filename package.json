@@ -1,0 +1,13 @@
+{
+  "name": "facebook-page-information",
+  "version": "0.0.1",
+  "description": "You can get all the public information about the facebook page you want",
+  "main": "getFacebookPageInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "furkanom",
+  "repository": "git://github.com/FurkanOM/Facebook-Page-Information.git",
+  "homepage": "https://github.com/FurkanOM/Facebook-Page-Information",
+  "license": "BSD"
+}
